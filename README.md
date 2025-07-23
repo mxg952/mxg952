@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Marc Guillem Palacios
 
 **Desarrollador Backend Junior | Java & Spring Boot**  
-Barcelona, Cataluña
+Barcelona,
 
 ---
 
