@@ -1,4 +1,4 @@
-![Banner mxg952](assets/banner.png)
+![](assets/banner.png)
 
 # 👋 Hi, I'm Marc Guillem Palacios
 
