@@ -1,3 +1,5 @@
+![Banner mxg952](assets/banner.png)
+
 # 👋 Hi, I'm Marc Guillem Palacios
 
 **Desarrollador Backend Junior | Java & Spring Boot**  
