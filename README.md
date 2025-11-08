@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marc!
 
-**Desarrollador Backend Junior | Java & Spring Boot**
+** Backend Junior Developer | Java & Spring Boot**
 
 ---
 
